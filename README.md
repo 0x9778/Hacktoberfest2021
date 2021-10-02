@@ -4,14 +4,7 @@ Hacktoberfest is an annual event hosted by Digital Ocean that aims to encourage 
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
-## How to contribute to this Project :
-
-Just add your name, country, bio and social links to the `CONTRIBUTORS.md` file using the below convention :
-
-```markdown
-#### Name : [Your Name](GitHub)
-- Country : India
-- Bio : Who are you? What you do?
-- Soical : [Social](SocialLinks)
-```
-Make a pull request for your work and wait for it to be merged!
+<b><h1>List of tools:</h1></b>
+<ul type="disc">
+  <li>https://github.com/umair9747/headmail</li>
+  </ul>
